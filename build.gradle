@@ -27,7 +27,6 @@ dependencies {
 
     //swagger
     implementation "org.springdoc:springdoc-openapi-ui:$openApiVersion"
-
     //testing
     testImplementation "org.springframework.boot:spring-boot-starter-test"
 }
